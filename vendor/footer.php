@@ -12,9 +12,15 @@
     </style>
 
     <footer>
-        <section id="texto" class="container">
-            <p>Projeto integrador <br> Senac Minas - Sete Lagoas <br> Turma "Tecnico em Informatica” </p>
-        </section>
+        <div class="container">
+            <section id="texto">
+                <p>Projeto integrador <br> Senac Minas - Sete Lagoas <br> Turma "Tecnico em Informatica” </p>
+            </section>
+            <hr>
+            <section id="redes">
+           
+            </section>
+        </div>
     </footer>
 </body>
 
