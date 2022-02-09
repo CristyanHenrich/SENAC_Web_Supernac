@@ -227,13 +227,19 @@
 
     <article>
         <div class="destaques">
-            <img src="./img/produto1.png" alt="Produto 1">
+        <img src="./img/produto1.png" alt="Produto 1">
+        <p> Xiaomi Poco X3 Pro Dual Sim 128gb 6gb </p>
+        <p class="preco"> R$ 2.199,00 </p>
         </div>
         <div class="destaques">
         <img src="./img/produto2.png" alt="Produto 2">
+        <p> Smart Tv Box 8gb + 128gb 4k Android 11.1 - Mx Q Pro </p>
+        <p class="preco"> R$ 200,00 </p>
         </div>
         <div class="destaques">
         <img src="./img/produto3.png" alt="Produto 3">
+        <p> TV LED 24" Philco Linha Marrom 99243059 </p>
+        <p class="preco"> R$ 879,00 </p>
         </div>
     </article>
 
