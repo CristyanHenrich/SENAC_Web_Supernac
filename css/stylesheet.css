@@ -85,7 +85,7 @@
 }
 
 .destaques{
-    display: flex;
+    display: column;
     flex-direction: row;
     flex-wrap: nowrap;
     align-content: center;
