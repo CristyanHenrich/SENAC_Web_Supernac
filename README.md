@@ -1,5 +1,3 @@
 # Supernac
 
-
-#Desenvolvimento Web
-Projeto integrador turma informatica Senac Minas - Sete Lagoas
+Desenvolvimento Web Projeto integrador turma informatica Senac Minas - Sete Lagoas
